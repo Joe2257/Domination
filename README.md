@@ -2,7 +2,7 @@
 
 Hi everyone,
 
-this is my first commercial project Domination, that is set to release probably around mid late 2021,
+this is my most ambitious project, Domination, that is set to release probably around mid late 2021,
 it is a game inspired by titles like Escape From Tarkov and Deep Rock Galactic.
 As the project is still in the prototype phase I made available only the inventory system that I'm refactoring at the moment,
 the one that you will be able to see here was the prototype version of it.
